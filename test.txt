@@ -1,0 +1,14 @@
+bac eco:
+* is product 2*2=4
+= gives a variable a value str/int/float
++ simple addition
+- simple subtraction
+() used in many ways :
+	definition of a function def example():
+	Calling a pre-made function print() input()
+"" '' the exact same: Simply defines someting as a string print("hi") print('hi') but "" takes priority over '' allowing to type stuff like print("doesn't")
+% (mod) returns the rest of simple division: 50%3=2 50%2=0
+/ simple division returns a float 50/3=16.666666666666668
+// (div) simple division without a comma 50//3=16
+[] used in particular situation like defining an array: t=array([str]*3) t is now an array with the length of 3 
+	
